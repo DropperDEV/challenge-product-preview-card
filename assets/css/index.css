@@ -12,7 +12,7 @@ body{
 
 main{
     display: flex;
-    margin-top: 8%;
+    margin-top: 4%;
     flex-direction: row;
     justify-content: center;
     border-radius: 2%;
@@ -107,4 +107,5 @@ button{
 
 button img{
     margin-right: 10px;
+    width: 6%;
 }
